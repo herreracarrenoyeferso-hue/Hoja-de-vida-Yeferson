@@ -1,0 +1,51 @@
+body {
+   background-image: url("Documento\ Portada\ de\ proyecto\ Orgánico\ Azul.jpg");
+    background-size: cover;
+   
+}
+
+h2 {
+    color: #8dbaff;
+    font-size: 3rem;
+    
+}
+
+header {
+    height: 250px;
+}
+
+.logo img {
+    height: 200px;  
+    width: 150px;
+    margin-left: 20px;
+    border-radius: 60px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom:-5px;
+    color: #70c7f6;
+}
+
+main {
+ font-size: 1rem;
+ text-align: justify;
+ color: #d6640c;
+ font-family:arial, sans-serif ;
+}
+
+h3 {
+    font-size: 2rem;
+    text-align: center;
+    margin-top: -400px;
+    color: rgb(0, 136, 255);
+}
+
+h4 {
+    font-size: 1.2rem;
+    text-align: center;
+    margin-top: -200px;
+    color:#70c7f6
+    
+}
